@@ -5,7 +5,7 @@ DESCRIPTION: A Unity game in which players have to eliminate all the red lights 
 INSTALLATION: The user MUST have Unity and the assets downloaded (GitHub did not allow uploading such a large volume of files).
 
 USAGE: 
-Once inside, it quite simple:
+Once inside, it is quite simple:
 1. Run the game.
 2. Walk into the range and the timer starts.
 3. Shoot the red lights (left click). 
